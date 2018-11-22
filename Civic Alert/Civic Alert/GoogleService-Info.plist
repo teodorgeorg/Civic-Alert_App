@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>801641071286-kpp57ssuv108lri06cs1sdh5dr994i7u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.801641071286-kpp57ssuv108lri06cs1sdh5dr994i7u</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD-iDKTQxnM3gfkt7yz43Mnnm_46YtnAzg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>801641071286</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.fontys.nl</string>
+	<key>PROJECT_ID</key>
+	<string>civic-alert</string>
+	<key>STORAGE_BUCKET</key>
+	<string>civic-alert.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:801641071286:ios:6c23c2396f8bb087</string>
+	<key>DATABASE_URL</key>
+	<string>https://civic-alert.firebaseio.com</string>
+</dict>
+</plist>
